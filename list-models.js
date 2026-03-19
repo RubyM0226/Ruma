@@ -1,5 +1,4 @@
 // list-models.js
-const apiKey = 'AIzaSyDNRUxDNxdII_DN32WaK-o0DWiG8gh3p5k';
 
 async function listModels() {
   try {
